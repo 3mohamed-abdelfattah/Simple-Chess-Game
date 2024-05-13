@@ -1,0 +1,37 @@
+body {
+    padding-top: 70px;
+    align-items: center;
+}
+
+#board {
+    padding: -10px;
+    max-width: 550px;
+    min-width: 550px;
+
+}
+
+.navbar {
+    background-color: magenta;
+}
+
+#logo {
+    position: relative;
+    left: 10%;
+}
+
+#secondWindow {
+    max-width: 800px;
+    margin: 10px;
+    min-height: 370px;
+}
+
+#moveTable {
+    width: 100%;
+    max-height: 250px;
+    overflow: auto;
+}
+
+#controls {
+    position: absolute;
+    bottom: 0;
+}
